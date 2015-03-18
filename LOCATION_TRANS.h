@@ -1,9 +1,8 @@
 //
 //  LOCATION_TRANS.h
-//  Medicine
 //
-//  Created by stonefeng on 15/1/29.
-//  Copyright (c) 2015年 tencent. All rights reserved.
+//  Copyright (c) 2015, Feng Shi All rights reserved.
+//
 //
 
 #ifndef Medicine_LOCATION_TRANS_h
